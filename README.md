@@ -1,5 +1,5 @@
 <header>
-<img src="./assets/header.png">
+<img src="./assets/header.gif">
 </header>
 
 <main>
