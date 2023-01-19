@@ -5,6 +5,14 @@
 <main>
 <section>
 <h2 align="left">:bust_in_silhouette: About me:</h2>
+  <p align="left">
+  Hello World!!!
+  </p>
+  </br>
+  <p align="left">
+  My name is Thiru, newly fresh web developper trained by one of the best coding bootcamp in France <strong>LE REACTEUR</strong>.
+  </p>
+  
 
 <h2 align="left">:globe_with_meridians: Connect with me:</h2>
 <p align="left">
