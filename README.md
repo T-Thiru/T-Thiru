@@ -10,7 +10,7 @@
   </p>
   </br>
   <p align="left">
-  My name is Thiru, newly fresh web developper trained by one of the best coding bootcamp in France <strong>LE REACTEUR</strong>.
+  My name is Thiru, newly fresh web developper trained by one of the best coding bootcamp in France <span><img src="./assets/logo-le-reacteur-2.png"></span>.
   </p>
   
 
